@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Backend API
 
 ## Descripción
@@ -60,3 +61,6 @@ npm run dev
 - `products`: id, nombre, descripcion, precio, stock, imagen_url, created_at
 - `orders`: id, user_id, total, estado, created_at
 - `order_items`: id, order_id, product_id, cantidad, precio_unitario
+=======
+# ecommerceapp
+>>>>>>> 99566b61845324e24acd1014dba7fce9e3f4c678
